@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: mm5ou45hh-java-quarkus-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/mm5ou45hh-java-quarkus
